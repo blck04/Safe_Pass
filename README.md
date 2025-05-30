@@ -91,6 +91,6 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ---
 
 ## Contact
-📧 **Email:** kesleygwa@gmail.com
+📧 **Email:** asherbondo@gmail.com
 
-💻 **GitHub:** (https://github.com/LeeTadiwarr)
+💻 **GitHub:** (https://github.com/blck04)
